@@ -1,3 +1,3 @@
 # quote-generator
 
-amartinenco.github.io/quote-generator
+[a link] (amartinenco.github.io/quote-generator)
